@@ -46,7 +46,7 @@ public class Main {
         System.out.println("Contéudos Inscritos Emerson" + devEmerson.getConteudosInscritos());
         System.out.println("Contéudos Concluídos Emerson" + devEmerson.getConteudosConcluidos());
         System.out.println("XP:" + devEmerson.calcularXp());
-        System.out.println("---------------");
+        System.out.println("----------------");
 
         Dev devLuciene = new Dev();
         devLuciene.setNome("Luciene");
